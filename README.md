@@ -1,0 +1,1 @@
+# Smoothed-Moving-Average-Crossover-Strategy
